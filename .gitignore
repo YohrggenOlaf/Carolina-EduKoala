@@ -1,0 +1,12 @@
+# Entorno virtual y variables secretas
+.venv/
+.env
+
+# Archivos temporales de Python y SQLite local
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+
+# Configuración local del editor
+.vscode/
